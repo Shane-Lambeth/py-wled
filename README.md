@@ -1,2 +1,4 @@
 # py-wled
-Easy wled control using Python.
+Simple easy wled control using Python.
+
+More to come when I have time...
